@@ -23,11 +23,19 @@
 이재민
 뉴메릭 데이터 가시화 / dash 가시화 
 
+## 공정 프로세스 및 결과물
+<img width="1050" height="619" alt="Image" src="https://github.com/user-attachments/assets/a8eadb49-1dfb-41df-8645-ac6d7085f396" />
+
+<img width="1662" height="447" alt="Image" src="https://github.com/user-attachments/assets/cda4867b-6566-4e7b-9ae7-6d9028241946" />
+
+
+<img width="1745" height="1265" alt="Image" src="https://github.com/user-attachments/assets/c37f452c-df91-425e-a9eb-96529d3ee417" />
 
 ### 이미지 코드, tab5 5개를 분할하지 않고 합쳐놓았다. 
 > main 기능: 전역 변수로 API 호출, gpt 모델을 이용해 불량률 검출(프롬프트를 통해 시나리오 가정한 걸 적용시킴)
 > 
 > 파인튜닝 프로세스를 통해 사용자가 AI의 불량률 판단을 재검토하여 성능 향상 가능
+
 
 ```py
 
